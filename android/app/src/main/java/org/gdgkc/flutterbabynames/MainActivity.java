@@ -1,4 +1,4 @@
-package com.example.babynames;
+package org.gdgkc.flutterbabynames;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
