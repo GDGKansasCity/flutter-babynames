@@ -1,8 +1,3 @@
-# baby_names
+# Flutter Demo Project - Baby Names
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+This project utilizes Firebase and Flutter. It was created using the codelab here: https://codelabs.developers.google.com/codelabs/flutter-firebase
